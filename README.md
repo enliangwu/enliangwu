@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/enliang-wu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="enliangwu" height="50" width="50" /></a>
+
 </p>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enliangwu&layout=compact"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enliangwu"/>
 </a>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enliangwu)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
