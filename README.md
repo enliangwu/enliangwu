@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Welcome to my GitHub profile!
+<h2 align="center">Welcome to my GitHub profile!</h2>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
